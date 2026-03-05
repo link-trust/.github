@@ -1,9 +1,4 @@
-## Hi there 👋
-
-
-**Here are some ideas to get you started:**
-
-🙋‍♀️ A short introduc# Link Trust
+# Link Trust
 
 [![Website](https://img.shields.io/badge/website-linktrust.top-blue)](https://linktrust.top)
 [![GitHub Org](https://img.shields.io/badge/GitHub-link--trust-black?logo=github)](https://github.com/link-trust)
